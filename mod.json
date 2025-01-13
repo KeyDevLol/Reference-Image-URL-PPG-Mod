@@ -1,0 +1,18 @@
+{
+  "Name": "Reference Image URL",
+  "Author": "KeyDev",
+  "Description": "This mod adds the ability to upload your reference images into the game, which will make it easier to create your contraptions. You can use any images from your computer's disk. Press F7 to make reference ignore the cursor. Press F8 to make the reference start responding to the cursor again. These keys can be changed in ppgfolder/Mods/referenceModKeys.json",
+  "ModVersion": "1.3",
+  "GameVersion": "1.21+",
+  "ThumbnailPath": "icon.png",
+  "EntryPoint": "Mod.Mod",
+  "Tags": [
+    "Utility"
+  ],
+  "Scripts": [
+    "mod.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "3373572323"
+}
